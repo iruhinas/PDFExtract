@@ -1,5 +1,5 @@
 # PDFExtract
-# USAGE: PDFExtract (ejemplos prácticos)
+# USAGE:
 
 Guía rápida con **comandos listos para pegar** en PowerShell para `pdf_extract.py`.
 
